@@ -24,6 +24,8 @@ Soy Roger, me encanta el desarrollo front-end y el diseño UX/UI, tengo años de
   </a>
 </div>
 
+</br>
+
 ### ⚡ Enlaces de interés
 <hr>
 
