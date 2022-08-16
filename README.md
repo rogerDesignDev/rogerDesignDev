@@ -15,7 +15,7 @@ Soy Roger, me encanta el desarrollo front-end y el diseño UX/UI, tengo años de
 
 <div>
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,git,sass,styledcomponents,php,wordpress,vscode,figma,ps,ai,pr)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,git,sass,php,wordpress,vscode,figma,ps,ai,pr)](https://skillicons.dev)
   
 </div>  
 
