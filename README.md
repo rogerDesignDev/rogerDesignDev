@@ -22,13 +22,15 @@ Soy Roger, me encanta el desarrollo front-end y el diseño web, tengo años de e
 <br>
 
 <div align="center">
-  <a href="https://github.com/roger-fernandes-bomfim">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=roger-fernandes-bomfim&show_icons=true&theme=tokyonight"/> 
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roger-fernandes-bomfim&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/rogerDesignDev">
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=rogerDesignDev&show_icons=true&theme=tokyonight"/> 
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerDesignDev&layout=compact&theme=tokyonight"/>
   </a>
 </div>
 
 ### ⚡ Enlaces de interés
+<hr>
+
 - 👨‍💼 https://www.linkedin.com/in/alyenstudio/
 
 <br>
