@@ -17,9 +17,7 @@ Soy Roger, me encanta el desarrollo front-end y el diseño UX/UI, tengo años de
   
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,git,sass,php,wordpress,vscode,figma,ps,ai,pr)](https://skillicons.dev)
   
-</div>  
-
-<br>
+</div>
 
 <div align="center">
   <a href="https://github.com/rogerDesignDev">
@@ -27,6 +25,8 @@ Soy Roger, me encanta el desarrollo front-end y el diseño UX/UI, tengo años de
     <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerDesignDev&layout=compact&theme=tokyonight"/>
   </a>
 </div>
+
+<br>
 
 ### ⚡ Enlaces de interés
 <hr>
