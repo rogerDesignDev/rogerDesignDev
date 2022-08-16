@@ -8,6 +8,8 @@ Soy Roger, me encanta el desarrollo front-end y el diseño UX/UI, tengo años de
 - 💬 Pregúntame sobre diseño web, desarrollo web (React, JavaScript, etc).
 - 📫 Cómo contactar conmigo: [tecnux.net/contacto](https://tecnux.net/contacto)
 
+</br>
+
 ### 👨‍🎓 Tecnologías
 <hr>
 
