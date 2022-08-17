@@ -21,8 +21,10 @@ Soy Roger, me encanta el desarrollo front-end y el diseño UX/UI, tengo años de
 
 <div align="center">
   <a href="https://github.com/rogerDesignDev">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=rogerDesignDev&show_icons=true&theme=tokyonight"/> 
-    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerDesignDev&layout=compact&theme=tokyonight"/>
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=rogerDesignDev&show_icons=true&theme=radical"/> 
+    <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogerDesignDev&layout=compact&theme=radical"/>
+    
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rogerDesignDev&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </div>
 
