@@ -31,6 +31,6 @@ Soy Roger, me encanta el desarrollo front-end y el diseño UX/UI, tengo años de
 ### ⚡ Enlaces de interés
 <hr>
 
-- 👨‍💼 https://www.linkedin.com/in/alyenstudio/
+- 👨‍💼 https://es.linkedin.com/in/alyenstudio
 
 <br>
