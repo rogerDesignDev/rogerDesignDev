@@ -3,7 +3,7 @@
 
 Soy Roger, me encanta el desarrollo front-end y el diseño UX/UI, tengo años de experiencia en la aplicación de una amplia gama de habilidades técnicas. Soy un entusiasta de las tecnologías y siempre interesado en adquirir conocimientos nuevos.
 
-- 🌱 Actualmente estoy aprendiendo...
+- 🌱 Actualmente sigo aprendiendo...
 - 👯 Busco colaborar en nuevos proyectos paralelos.
 - 💬 Pregúntame sobre diseño web, desarrollo web (React, JavaScript, etc).
 - 📫 Cómo contactar conmigo: [tecnux.net/contacto](https://tecnux.net/contacto)
